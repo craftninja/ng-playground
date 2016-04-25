@@ -42,3 +42,11 @@
 1. Added `{{name}}` to h1 to output name
 
 two-way data binding!!! omg
+
+#### But Josh hates curly braces...
+
+1. Change `{{name}}` to:
+
+  ```html
+  <span ng-bind="name"></span>
+  ```
