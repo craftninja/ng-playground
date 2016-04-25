@@ -30,3 +30,10 @@
 
 * Copy and paste from bootstrap horizontal form, edit a wee bit
   * instead of having a form with class form-horizontal, class is on a div
+
+#### Hooked up a model and display on page
+
+1. Added `ng-model="name"` as attribute to input
+1. Added `{{name}}` to h1 to output name
+
+two-way data binding!!! omg
