@@ -1,6 +1,6 @@
 # README
 
-### Hod did this get made?
+### How did this get made?
 
 
 #### Inital setup
