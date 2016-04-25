@@ -25,3 +25,8 @@
 1. find the current CDN
 1. in body put `{{1+2}}`
 1. add `ng-app` as attribute to html
+
+#### Add input
+
+* Copy and paste from bootstrap horizontal form, edit a wee bit
+  * instead of having a form with class form-horizontal, class is on a div
