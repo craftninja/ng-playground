@@ -19,3 +19,9 @@
 #### Add bootstrap
 
 * find the current CDN
+
+#### Add angular
+
+1. find the current CDN
+1. in body put `{{1+2}}`
+1. add `ng-app` as attribute to html
