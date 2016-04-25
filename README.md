@@ -1,5 +1,10 @@
 # README
 
+### Get this puppy up and running
+
+1. Fork clone, npm install
+1. `npm start`
+
 ### How did this get made?
 
 
